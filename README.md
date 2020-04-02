@@ -12,7 +12,7 @@ Outputs file in game format;
 
 Changelog:
 
-#1.1.0:#
+##1.1.0:
 
 
 +Created project
@@ -28,7 +28,7 @@ Changelog:
 +Volume slider
 
 
-#1.2.0:#
+##1.2.0:
 
 
 +Allowed for timeline scrubbing
@@ -40,7 +40,7 @@ to be placed non-sequentially, and then sorted at build.
 
 +Shows file name above BPM label
   
-#1.3.0:#
+##1.3.0:
 
 
 +Fixed timeline note placement getting off track
