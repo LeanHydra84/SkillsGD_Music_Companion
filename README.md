@@ -30,6 +30,7 @@ Changelog:
 
 ## 1.2.0:
 
+-Removed lock on play header
 
 +Allowed for timeline scrubbing
 
@@ -47,7 +48,7 @@ to be placed non-sequentially, and then sorted at build.
 
 +Expanded playback speed slider from (0.5-2.0) to (0.1-2.0)
 
-+Added colorful buttons (matcyhing timeline colors)
++Added colorful buttons (matching timeline colors)
 
 +Added option to disable button colors.
 
